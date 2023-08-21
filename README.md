@@ -34,6 +34,7 @@ Before you begin, ensure you have the following:
     
     -   `AuthToken`: Set the authorization token for the file uploads.
     -   `StorageFolderPath`: Set the path to the storage folder within the project.
+    -   `DBConnectionString`: Set the PostgreSQL database connection string.
 
 ## Step 3: Run the Application
 
