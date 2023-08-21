@@ -51,8 +51,9 @@ Before you begin, ensure you have the following:
 
 ## Step 4: Access the Application
 
-1.  Open your web browser.
-2.  Visit `http://localhost:8080` to access the file upload form.
+1.  In your terminal, Run `go run main.go`
+2.  Open your web browser.
+3.  Visit `http://localhost:8080` to access the file upload form.
 
 ## Step 5: Using pgAdmin
 
